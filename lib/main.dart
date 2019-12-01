@@ -7,7 +7,7 @@ import './telepon.dart' as telepon;
 
 void main(){
   runApp(new MaterialApp(
-   title: "Tampilan Tab Bar",
+   title: "Aplikasi Sederhana",
    home: new Home(),
   ));
 }

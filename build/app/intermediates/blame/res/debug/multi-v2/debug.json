@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/mohfahrurrozi/1B2CB9F77C8856D8/belajar Fluter/2/lyout/build/app/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/media/mohfahrurrozi/1B2CB9F77C8856D8/belajar Fluter/2/lyout/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "347"
+                    }
+                }
+            ]
+        }
+    ]
+}
